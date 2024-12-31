@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contact_name">%1$s %2$s</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Отмена</string>
+    <string name="del">Удалить</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="save">Сохранить</string>
+    <string name="first_name_last_name">Имя Фамилия</string>
+    <string name="number_phone">Номер телефона</string>
+    <string name="fill_all_fields">Заполните все поля</string>
+</resources>
